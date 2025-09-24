@@ -1,5 +1,6 @@
-
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJxYWVsZzZ2YjVtaDJyaG0zMTJ0dWd4MTRwdzJ4cnF2ajNzNWRwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif
+<p align="center">
+  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJxYWVsZzZ2YjVtaDJyaG0zMTJ0dWd4MTRwdzJ4cnF2ajNzNWRwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif">
+</p>
 
 <h1 align="center">Tanadol Sirirat</h1>
 <h3 align="center">-</h3>
